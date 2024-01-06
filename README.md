@@ -3,4 +3,7 @@
 - Read the description if you can and want, please :)
 - Við æxla skógur á Íslandi!
 
+License:   All our parts(and software and hardware) and technologies you may free to use. 
+          But we do not allow you to use this for aggression towards people or animals.
+
 https://www.youtube.com/@HarmomiesWorlds
